@@ -36,7 +36,7 @@ K-Town project is a full stack web application built to simulate a real-world on
 
 ## Team Members
 
-- Wint Wah Kyaw Soe
+- Wint Wah Kyaw Soe (https://github.com/wintwah243)
 - Zarni Hein (https://github.com/Yujiroaki22)
 - Ei Ngoan Phoo
 - Durga Ghimirae
